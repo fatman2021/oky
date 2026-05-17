@@ -6,7 +6,7 @@
     "start": "grunt"
   },
   "devDependencies": {
-    "handlebars": "4.7.7",
+    "handlebars": "4.7.9",
     "grunt": "~0.4.1",
     "grunt-contrib-handlebars": "~0.5.8",
     "grunt-contrib-concat": "~0.2.0",
